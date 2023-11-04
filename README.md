@@ -11,7 +11,7 @@ Most of the code is based on stylegan2-ada-pytorch, the required packages can be
 ### Training
 
 **Train SMM models:**
-  - For cifar10 dataset: python train--outdir=./training-runs --data=./datasets/cifar10.zip --gpus=1 --cfg=cifar --snap=50 --aug=noaug
+  - For cifar10 dataset: python train.py --outdir=./training-runs --data=./datasets/cifar10.zip --gpus=1 --cfg=cifar --snap=50 --aug=noaug
   
 TODO: soon
 

@@ -14,4 +14,6 @@ Most of the code is based on stylegan2-ada-pytorch, the required packages can be
   - For cifar10 dataset: python train.py --outdir=./training-runs --data=./datasets/cifar10.zip --gpus=1 --cfg=cifar --snap=50 --aug=noaug
   
 TODO: soon
+**A simple vesrsion of SMM:**
+[simple SMM]([https://arxiv.org/abs/2309.11043](https://github.com/senmaoy/Simple-Score-Mismatching)https://github.com/senmaoy/Simple-Score-Mismatching) 
 

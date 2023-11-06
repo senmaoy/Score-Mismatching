@@ -15,5 +15,5 @@ Most of the code is based on stylegan2-ada-pytorch, the required packages can be
   
 TODO: soon
 **A simple vesrsion of SMM:**
-[simple SMM](https://github.com/senmaoy/Simple-Score-Mismatching)https://github.com/senmaoy/Simple-Score-Mismatching) 
+[simple SMM](https://github.com/senmaoy/Simple-Score-Mismatching) 
 

@@ -1,4 +1,4 @@
-# Recurrent-Affine-Transformation-for-Text-to-image-Synthesis
+# SCORE MISMATCHING FOR GENERATIVE MODELING
 
 Official Pytorch implementation for our paper [SCORE MISMATCHING FOR GENERATIVE MODELING](https://arxiv.org/abs/2309.11043) 
 
